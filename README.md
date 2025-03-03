@@ -25,8 +25,7 @@ I added a button to go to the previous card. Once it reaches the first card, it 
 
 Here's a walkthrough of implemented required features:
 
-<img src='/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
