@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - Verse Flashcards
 
 Submitted by: Emely Barcenas
 
@@ -25,7 +25,7 @@ I added a button to go to the previous card. Once it reaches the first card, it 
 
 Here's a walkthrough of implemented required features:
 
-<img src='/Users/emelybarcenas/p2-flashcards/public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap
