@@ -75,3 +75,6 @@ p{
   transform: rotateY(180deg);
   background: rgb(1, 85, 1);
 }
+.shuffle{
+  margin-left: 10px;
+}
